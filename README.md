@@ -1,1 +1,4 @@
-"Casey Morris"
+"Casey Morris" 
+morricas@oregonstate.edu
+blue
+Muse
